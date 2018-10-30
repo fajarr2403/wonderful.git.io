@@ -13,5 +13,12 @@
 
 .con{
   background-color: aqua;
-  padding: 20px 0 10px 0;
+  padding: 4% 0 4% 0;
+}
+.judul h2 {
+  margin: 4% 0 4% 0;
+}
+
+.panel{
+  border: #333
 }
